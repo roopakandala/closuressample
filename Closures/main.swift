@@ -20,6 +20,8 @@ func add(x1:Int,y1:Int) ->Int{
 
 func subtract(x1:Int,y1:Int) ->Int{
     return x1-y1
+    
+    
 }
 
 calculator(x:5,y:4,operation: add)
