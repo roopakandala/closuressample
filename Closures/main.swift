@@ -28,13 +28,6 @@ calculator(x:5,y:4,operation: add)
 
 
 
-//Closures(Functions without name are closures)
-
-//Closure syntax:
-//{(parameters) -> returnType in
-    //statements
-//}
-
 
 calculator(x:2,y:4, operation:{(x1,y1) in x1+y1})
 
